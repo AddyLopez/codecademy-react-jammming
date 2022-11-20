@@ -1,8 +1,9 @@
 import React from "react";
-import "./App.css";
 import SearchBar from "../SearchBar";
 import SearchResults from "../SearchResults";
 import Playlist from "../Playlist";
+
+import "./App.css";
 
 class App extends React.Component {
   render() {
